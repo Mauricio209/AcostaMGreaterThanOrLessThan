@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/bernardo/.nuget/packages/": {}
+    "C:\\Users\\jacob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bernardo/Documents/RealCodeStack/AcostaMGreaterThanOrLessThan/AcostaMGreaterThanOrLessThan.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\AcostaMGreaterThanOrLessThan\\AcostaMGreaterThanOrLessThan.csproj",
       "projectName": "AcostaMGreaterThanOrLessThan",
-      "projectPath": "/Users/bernardo/Documents/RealCodeStack/AcostaMGreaterThanOrLessThan/AcostaMGreaterThanOrLessThan.csproj",
-      "packagesPath": "/Users/bernardo/.nuget/packages/",
-      "outputPath": "/Users/bernardo/Documents/RealCodeStack/AcostaMGreaterThanOrLessThan/obj/",
+      "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\AcostaMGreaterThanOrLessThan\\AcostaMGreaterThanOrLessThan.csproj",
+      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\AcostaMGreaterThanOrLessThan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/bernardo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
